@@ -63,7 +63,7 @@
     "@types/react-dom": "^18",
     "cypress": "^13.17.0",
     "eslint": "^8",
-    "eslint-config-next": "14.2.15",
+    "eslint-config-next": "16.0.10",
     "husky": "^8.0.0",
     "lint-staged": "^15.2.10",
     "postcss": "^8",
